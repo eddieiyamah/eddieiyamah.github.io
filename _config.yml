@@ -1,5 +1,6 @@
 title: Eddie Iyamah
 
 
-#show_downloads: true
+show_downloads: false
 theme: jerkyll-theme-minimal
+ 
